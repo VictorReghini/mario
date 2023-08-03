@@ -1,4 +1,4 @@
-# mario
+# Mario Chrome Dinossour
 Mario Chrome Dinossour in HTML, CSS and JavaScript
 
 
