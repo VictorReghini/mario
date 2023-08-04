@@ -1,6 +1,6 @@
 # Mario Chrome Dinossour
 
-[access demo](https://victor-reghini.github.io/)
+[access demo](https://victor-reghini.github.io/mario/)
 
 Mario Chrome Dinossour in HTML, CSS and JavaScript
 
